@@ -1,0 +1,1 @@
+document.getElementById('btn_ayuda').onclick = alert('Los links ancla se encuentran en el menú superior')
